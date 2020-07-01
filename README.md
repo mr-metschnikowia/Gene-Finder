@@ -1,2 +1,2 @@
-# Gene-Finder/Primer Designer
-Simple gene identification alogrithm integrated with a simple algorithm for PCR primer design.
+Primer Designer
+Simple algorithm to design primers for PCR of a gene of interest.
